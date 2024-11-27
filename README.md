@@ -1,3 +1,8 @@
+
+# Vanilla JavaScript Todo 구현 과제 수행
+- 수행 기한 : 1주일
+
+
 <p align="middle" >
   <img width="200px;" src="./assets/todo.png"/>
 </p>
